@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    :root{
+        --card-textColor:229 9.6% 54.9% 1;
+    }
+}
+
